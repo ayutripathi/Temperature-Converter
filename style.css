@@ -1,0 +1,32 @@
+ *{
+    background-color:rgb(99, 99, 148);
+    color:black;
+}
+label{
+    font-size: 18px;
+}
+
+
+.container{
+    text-align: center;
+    margin-top: 200px;
+}
+
+
+input{
+    border-color:cyan;
+    box-shadow: 0px 5px 10px cyan;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.button{
+    background-color:red;
+    color: #fff;
+    height: auto;
+    width: 200px;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+
+} 
